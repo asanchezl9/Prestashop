@@ -436,7 +436,7 @@ Seguidamente, vamos al navegador y buscamos **`https://localhost:8443/admin_usua
 
 ## **_Screencast_**
 
-![Screencast Funcionamiento](screencast/Prestashop_funcionamiento.mp4)
+[Screencast Funcionamiento](screencast/Prestashop_funcionamiento.mp4)
 
 ---
 
